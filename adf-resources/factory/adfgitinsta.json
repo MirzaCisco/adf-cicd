@@ -1,0 +1,9 @@
+{
+	"name": "adfgitinsta",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c42555f1-91a0-4722-9b87-6b106bf9be6a",
+		"tenantId": "a2e658f8-abb4-4f7b-a457-7921c4f8b961"
+	}
+}
